@@ -8,7 +8,7 @@ if os.path.exists("debian/changelog"):
     version = output.split(":")[1].strip()
 """
 
-setup(name = "ros-system-tools",
+setup(name = "ros-system-tools-groovy",
 #    version = version,
     version = "0.0.1",
     description = "System level ROS Tools",

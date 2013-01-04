@@ -2,7 +2,7 @@ ros-system-tools-groovy (0.0.2) precise; urgency=low
 
   * Fix for blank ssid
 
- -- I Heart Engineering <code@iheartengineering.com>  Wed, 15 Aug 2012 07:45:35 -0400
+ -- I Heart Engineering <code@iheartengineering.com>  Wed, 02 Jan 2013 06:03:48 -0500
 
 ros-system-tools-groovy (0.0.2~1.gbp410fcf) UNRELEASED; urgency=low
 
